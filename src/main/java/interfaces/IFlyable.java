@@ -1,2 +1,5 @@
-package interfaces;public interface Flyable {
+package interfaces;
+
+public interface IFlyable {
+    void fly(String type);
 }

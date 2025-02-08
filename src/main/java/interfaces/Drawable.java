@@ -1,2 +1,5 @@
-package interfaces;public interface Drawable {
+package interfaces;
+
+public interface Drawable {
+    void draw();
 }

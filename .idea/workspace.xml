@@ -5,35 +5,99 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="223a92b5-d4c9-4c81-9df2-579454c676e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eric/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eric/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfaces/Drawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/IFlyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfaces/IFlyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/ISwimmable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfaces/ISwimmable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Goat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Goat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hirwajeaneric"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hirwajeaneric/Java-OOP-Concepts.git",
+    "accountId": "562512d3-d513-4463-8511-bcc92c0befd2"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2sO57W8UMt7BcT8zBdInaXcRHbJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/hirwajeaneric/Documents/Programming/Java/Practice/src/main/java/com/eric/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eric.Main" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,22 +114,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738313614151</updated>
-      <workItem from="1738313615494" duration="3000" />
+      <workItem from="1738313615494" duration="3146000" />
+      <workItem from="1738566183375" duration="1035000" />
+      <workItem from="1738604410238" duration="12000" />
+      <workItem from="1739008260572" duration="9351000" />
+      <workItem from="1739020640762" duration="382000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/eric/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

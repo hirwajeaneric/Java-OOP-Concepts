@@ -1,9 +1,5 @@
-package models;
+package interfaces;
 
-interface Flyable {
-    void fly();
-}
-
-interface Swimmable {
+public interface ISwimmable {
     void swim();
 }
